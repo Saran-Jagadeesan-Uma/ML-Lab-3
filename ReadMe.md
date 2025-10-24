@@ -1,0 +1,2 @@
+# Changes to Apache Lab
+- Did the Apace Beam lab, instead of the regular word-count example. Made a project that picks character names from Shakespeare plays and performs two analyses: the top 10 most frequent names and word length distribution. Ran the whole pynb file in Google Colab and also attached the final results in the zip.
